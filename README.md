@@ -86,7 +86,9 @@ Finalmente se prueba en Android:
 
 Npx cap open Android
 <img width="886" height="404" alt="image" src="https://github.com/user-attachments/assets/2fda448d-1b83-4a8d-8033-0b2bb6af5ad9" />
-<img width="361" height="772" alt="image" src="https://github.com/user-attachments/assets/13195ea5-a3ab-4fb2-8236-e9c5aae71e17" />
+
+<img width="505" height="830" alt="image" src="https://github.com/user-attachments/assets/85fdc8ee-b78f-4b12-bfad-7de7c4078add" />
+
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/01befb39-8eb7-40c5-aaf9-b3a33ad0a47c" />
 
 
